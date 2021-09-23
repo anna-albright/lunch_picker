@@ -1,10 +1,8 @@
 /********************************************
-*	AUTHOR:	Anna Khanzhina
+*	AUTHOR:	Anna Albright
 * COLLABORATORS: Catherine Walker 
-*	COURSE:	CS 111 Intro to CS I - Java
 *	SECTION:	Tuesday, Thursday 08:00-09:50
 *	PROJECT(PART):	Final Project
-*	LAST MODIFIED:  05/20/2020
 ********************************************/
 
 /********************************************
