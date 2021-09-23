@@ -1,0 +1,16 @@
+Taste of India,vegetarian,Indian,$$,city or ocean view
+Punjabi,Pescatarian,Indian,$,cozy place with good design
+Venetos,Vegeterian,Italian,$$,city or ocean view
+La perla,Pescatarian,Mexican,$,cozy place with good design
+Jeune Et Jolie,Vegan,French,$$,cozy place with good design
+St Tropez,Pescatarian,French,$$$,city or ocean view
+Super Sushi,Pescatarian,Japanese, $$,cozy place with good design
+Sunshine Kitchen,Vegetarian,Japanese,$$$,city or ocean view
+Seafire,Vegetarian,Mediterranean,$$,city or ocean view
+Luna,Pescatarian,Mediterranean,$,cozy place with good design
+Oggi,Pescatarian,Italian,$$$,cozy place with good design
+Green olive,Vegan,Italian,$$,city or ocean view
+Los Tacos,Vegan,Mexican,$,city or ocean view
+Jalisco Cantina,Vegetarian,Mexican,$$,cozy place with good design
+Rosewood,Doesn't matter,American,$$,city or ocean view
+Social&co,Vegetarian,American,$,cozy place with good design
